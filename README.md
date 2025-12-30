@@ -85,7 +85,7 @@
 ## 📊 GitHub Stats:
 
 <div align="center">
-  <img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Deva099&theme=radical">
+  <img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chinmaya-dash&theme=radical">
   <img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Deva099&theme=radical">
   <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Deva099&theme=radical">
   <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Deva099&theme=radical">

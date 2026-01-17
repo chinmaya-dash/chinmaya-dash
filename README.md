@@ -23,11 +23,11 @@
 
 <!-- Personal details and image section -->
 👨‍💻 Full Stack Developer<br />
-💛 In love with <strong>JavaScript</strong> <img src="https://github.com/user-attachments/assets/03f28b46-a00a-4204-b070-817b98f169cc" min-width="300px" max-width="300px" width="350px" align="right" /> <br />
+💛 In love with <strong>Java</strong> <img src="https://github.com/user-attachments/assets/03f28b46-a00a-4204-b070-817b98f169cc" min-width="300px" max-width="300px" width="350px" align="right" /> <br />
 🎨 Love writing <strong>CSS / SCSS</strong> <br />
-🌱 Full Stack Web Developer in <strong>Next JS</strong> <br />
+🌱 Full Stack Java Developer in <strong></strong> <br />
 🛠️ Backend: <strong>JSP • Servlet • JDBC • PostgreSQL</strong>
-💬 Ask me about <strong>react, JavaScript, Next.js, json, APIs</strong> <br />
+<!--💬 Ask me about <strong>r JavaScript, Next.js, json, APIs</strong> <br /> -->
 🚀 Building scalable, responsive, and  <strong>user-focused web applications</strong> <br />
 📚 Continuously learning modern web technologies
 
@@ -86,10 +86,10 @@
 
 <div align="center">
   <img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chinmaya-dash&theme=radical">
-  <img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Deva099&theme=radical">
-  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Deva099&theme=radical">
-  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Deva099&theme=radical">
-  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Deva099&theme=radical&utcOffset=8">
+  <img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=chinmaya-dash&theme=radical">
+  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=chinmaya-dash&theme=radical">
+  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=chinmaya-dash&theme=radical">
+  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=chinmaya-dash&theme=radical&utcOffset=8">
 
   <!-- Additional GitHub Readme Stats -->
 
